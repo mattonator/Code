@@ -1,0 +1,24 @@
+{
+  "enabled": false,
+  "criteria": [
+    {
+      "color": {
+        "value": -16776961,
+        "falpha": 0.0
+      },
+      "name": "Boss",
+      "switchName": "Show Bosses",
+      "weight": 7,
+      "sendDetails": true,
+      "sendPosition": true,
+      "searchRadius": 150,
+      "isPokemon": true,
+      "userSearch": false,
+      "validPokemon": [],
+      "shiny": false,
+      "boss": true,
+      "isTileEntity": false,
+      "tileEntities": [],
+      "isEntity": false,
+      "entities": []
+    },
